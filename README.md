@@ -1,8 +1,6 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VXenomac&show_icons=true&count_private=true&include_all_commits=true" />
 
-My screen name is VXenomac(Venom + Mac + X), also known for 一个轮子 in Chinese.
-
 I work as a technical program manager and full stack engineer. Thank you for following me.
 
 🔭 I’m currently working on contributing to an better AI commuity and some interesting side projects just for fun.
